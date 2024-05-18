@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         HandleMovement();
-        HandleRotation();
+        //HandleRotation();
     }
 
     void HandleRotation()
